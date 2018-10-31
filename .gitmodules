@@ -3,7 +3,7 @@
 	url = https://github.com/hyraxZK/bccgp
 [submodule "fennel"]
 	path = fennel
-	url = https://github.com/hyraxZK/fennel
+	url = https://github.com/matteocam/fennel
 [submodule "libpws"]
 	path = libpws
 	url = https://github.com/hyraxZK/libpws
